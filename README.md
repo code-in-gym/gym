@@ -1,4 +1,4 @@
-# gym
+# Gym
 
-gym is a simple web framework,
-like [gin](https://github.com/gin-gonic/gin), from [gee](https://github.com/geektutu/7days-golang/tree/master/gee-web).
+Gym is a simple web framework,
+like [Gin](https://github.com/gin-gonic/gin), from [Gee](https://github.com/geektutu/7days-golang/tree/master/gee-web).

@@ -16,7 +16,7 @@
 
 config.toml
 main
-examples
+examples/examples
 *.swp
 gym
 .DS_Store
